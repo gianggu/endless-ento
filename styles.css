@@ -1,0 +1,10 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-image: url(#);
+    background-size: cover;
+}
+
+#game_screen {
+    background-image: url(#);
+}
